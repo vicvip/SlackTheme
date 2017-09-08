@@ -257,6 +257,6 @@ ts-message a.timestamp{
    border-color: var(--border-bright) !important;
 }
 
-#details_tab{
-   background-color: var(--sidebar-background) !important;
+#details_tab .channel_page_section .section_header{
+   background_color: var(--sidebar-background) !important;
 }
