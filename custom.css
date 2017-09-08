@@ -256,3 +256,7 @@ ts-message a.timestamp{
 #team_menu, #quick_switcher_btn, #team_menu_overlay, #col_channels_overlay {
    border-color: var(--border-bright) !important;
 }
+
+#details_tab{
+   background-color: var(--sidebar-background) !important;
+}
